@@ -19,6 +19,15 @@ public class PlayerMove : MonoBehaviour
 
     }
 
+    void test()
+    {
+        test.checked
+        {
+            
+        }
+    }
+    
+
 
     void Update()
     {
